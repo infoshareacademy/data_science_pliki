@@ -1,1 +1,1 @@
-Pobierz plik i zaimportuj go zgodnie z preworkiem.
+Pobierz pliky i zaimportuj je zgodnie z preworkiem.
