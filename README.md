@@ -1,1 +1,1 @@
-# data_science_prework_northwind
+Pobierz plik i zaimportuj go zgodnie z preworkiem.
