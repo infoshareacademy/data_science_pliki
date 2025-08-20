@@ -1,3 +1,3 @@
-Pobierz pliki i zaimportuj je zgodnie z preworkiem:
+Aby pobrać wybrany pik:
 - kliknij w konkretny plik,
 - naciśnij strzałkę w dół.
